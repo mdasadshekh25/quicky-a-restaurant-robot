@@ -160,3 +160,18 @@ When a card is detected, the program follows this security logic:
 
 ---
 
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
+![Untitled design](https://github.com/user-attachments/assets/017dc98c-f702-4bee-9239-5ec0933162b9)
+![1](https://github.com/user-attachments/assets/7351ad61-64df-4239-8002-bfe85002f3e5)
+![IMG20251108183600](https://github.com/user-attachments/assets/b344517b-9555-4fa4-8154-7e47b184f50c)
+![IMG20251108183549](https://github.com/user-attachments/assets/9bde45e8-bbc8-4bbe-bfe3-8c1d601c898a)
+![IMG20251108183507](https://github.com/user-attachments/assets/7860032a-4479-4623-8eb0-047e8d1229fa)
+![IMG20251108183409](https://github.com/user-attachments/assets/fbb4a7e5-ff97-4883-beab-4165b1268bd7)
+![IMG20251108183356](https://github.com/user-attachments/assets/f77feedd-25be-4de0-a5f4-9341132988ef)
+
