@@ -1,2 +1,2 @@
-# project-quicky
-A robot-based food delivery system.
+# Project Quicky: A Resturent Service Robot
+QUICKY: WiFi web-controlled ESP32 waiter robot for cafe/food court order delivery. Manual navigation via browser interface over cafe WiFi. Features RFID-secured compartment (RC522) for contactless customer pickup. Temperature control demo shown (not production fridge implemented). Stable multi-wheel chassis for real-world floors. EEE student project solving manual delivery inefficiency + hygiene issues in crowded small venues.
